@@ -1,4 +1,4 @@
-## Lista final de prompts
+## Lista de Prompts
 
 ### 1) ChatGPT — Plano de aula completo (+ rubrica e transparência)
 
@@ -75,5 +75,3 @@
 > * [ ] **README.md** com links e **reflexão** adicionados
 > * [ ] Nomes de arquivos corretos: `Plano_de_Aula_IA.pdf|.docx`, `Apresentacao_Aula_IA.pptx`, `Reflexao_IA.docx|.pdf`
 > * [ ] Conformidade com **privacidade/autoria** e rubrica incluída
-> 2. Use os prompts **2 (Word) e 5 (PowerPoint) no Copilot**.
-> 3. Salve os arquivos com os **nomes padronizados** e publique no GitHub conforme o README.
