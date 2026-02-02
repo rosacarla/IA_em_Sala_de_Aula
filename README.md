@@ -20,9 +20,9 @@ A entrega inclui **plano**, **apresentação** e **reflexão crítica**, com **t
 - **Plano de Aula Detalhado** — [`Plano_de_Aula_IA.pdf`](https://github.com/rosacarla/IA_em_Sala_de_Aula/blob/main/Plano%20de%20Aula_Inovacao%20Tecnologica%20no%20Empreendedorismo.docx)   
   Deve conter: objetivos, conteúdo, metodologia, avaliação e diferenciação.  
   > Indicar claramente o que foi **criado/assistido por IA** (ex.: comentários no Word, marcações no PDF).
-- **Apresentação** — `Apresentacao_Aula_IA.pptx` **ou** link do PowerPoint online  
+- **Apresentação** — `Empreendedorismo_Inovacao_Apresentacao.pptx`  
   > Se hospedado em OneDrive/Google Drive, incluir o **link** no README.
-- **Reflexão** — `seção no README'  
+- **Reflexão** — `seção no README`  
   > Explicar ferramentas usadas, desafios (ética/privacidade), soluções, **ganhos de tempo** e **lições aprendidas**.
 - **README.md**— título, descrição do desafio, **resumo do plano**, ferramentas de IA, links externos, **reflexão final** e **créditos**.
 
@@ -72,8 +72,8 @@ Descrever como o plano contempla **pelo menos dois perfis**:
 
 ## 6) Internacionalização de um trecho (obrigatória)
 Incluir um **pequeno trecho** do material com **revisão inteligente e tradução rápida**:
-- **Trecho original:** [Resumo - Empreendedorismo e Inovação Tecnológica.docx](  )
-- **Trecho traduzido:** [Resumen - Emprendimiento e Innovación Tecnológica.docx](  )
+- **Trecho original:** [Resumo - Empreendedorismo e Inovação Tecnológica.docx](https://github.com/rosacarla/IA_em_Sala_de_Aula/blob/main/Resumo%20-%20Empreendedorismo%20e%20Inova%C3%A7%C3%A3o%20Tecnol%C3%B3gica.docx)
+- **Trecho traduzido:** [Resumen - Emprendimiento e Innovación Tecnológica.docx](https://github.com/rosacarla/IA_em_Sala_de_Aula/blob/main/Resumen%20-%20Emprendimiento%20e%20Innovaci%C3%B3n%20Tecnol%C3%B3gica.docx)
 - **Observações de inclusão linguística:** Material de apoio para a compreensão de alunos com habilidades multilíngues.
 
 ---
