@@ -1,7 +1,7 @@
 # Plano de Aula Interativo e Personalizado com Ecossistema IA
 
 **Descrição do desafio**  
-Desafio prático em **IA aplicada à educação** para avaliar as competências adquiridas e preparar a aplicação no mundo real. A proposta solicita a criaçõ de um plano de aula **interativo e personalizado** usando um **ecossistema de IA** (ex.: ChatGPT e Microsoft Copilot), com atenção a **ética, autoria e proteção de dados (LGPD)**, a **adaptação para pelo menos dois perfis de alunos** e **internacionalização** de um pequeno trecho do material.  
+Desafio prático em **IA aplicada à educação** para avaliar as competências adquiridas e preparar a aplicação no mundo real. A proposta do bootcamp solicita a criação de um plano de aula **interativo e personalizado** usando um **ecossistema de IA** (ex.: ChatGPT e Microsoft Copilot), com atenção a **ética, autoria e proteção de dados (LGPD)**, a **adaptação para pelo menos dois perfis de alunos** e **internacionalização** de um pequeno trecho do material.  
 A entrega inclui **plano**, **apresentação** e **reflexão crítica**, com **transparência** sobre o que foi assistido/gerado por IA e qual foi a revisão humana.
 
 ---
