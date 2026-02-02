@@ -17,7 +17,7 @@ A entrega inclui **plano**, **apresentação** e **reflexão crítica**, com **t
 ---
 
 ## 2) Entregáveis (obrigatórios)
-- **Plano de Aula Detalhado** — `Plano_de_Aula_IA.pdf` **ou** `.docx`  
+- **Plano de Aula Detalhado** — [`Plano_de_Aula_IA.pdf`](https://github.com/rosacarla/IA_em_Sala_de_Aula/blob/main/Plano%20de%20Aula_Inovacao%20Tecnologica%20no%20Empreendedorismo.docx)   
   Deve conter: objetivos, conteúdo, metodologia, avaliação e diferenciação.  
   > Indicar claramente o que foi **criado/assistido por IA** (ex.: comentários no Word, marcações no PDF).
 - **Apresentação** — `Apresentacao_Aula_IA.pptx` **ou** link do PowerPoint online  
