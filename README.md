@@ -22,11 +22,9 @@ A entrega inclui **plano**, **apresentação** e **reflexão crítica**, com **t
   > Indicar claramente o que foi **criado/assistido por IA** (ex.: comentários no Word, marcações no PDF).
 - **Apresentação** — `Apresentacao_Aula_IA.pptx` **ou** link do PowerPoint online  
   > Se hospedado em OneDrive/Google Drive, incluir o **link** no README.
-- **Reflexão** — `Reflexao_IA.docx` **ou** `.pdf` **ou** seção no README  
+- **Reflexão** — `seção no README'  
   > Explicar ferramentas usadas, desafios (ética/privacidade), soluções, **ganhos de tempo** e **lições aprendidas**.
-- **README.md** (este arquivo) — título, descrição do desafio, **resumo do plano**, ferramentas de IA, links externos, **reflexão final** e **créditos**.
-
----
+- **README.md**— título, descrição do desafio, **resumo do plano**, ferramentas de IA, links externos, **reflexão final** e **créditos**.
 
 ## 3) Estrutura do repositório (sugerida)
 ```
@@ -64,20 +62,19 @@ A entrega inclui **plano**, **apresentação** e **reflexão crítica**, com **t
 > **Transparência de IA:** Este plano foi elaborado com apoio de inteligência artificial para organização didática e sugestão de atividades. O professor mantém total autonomia para adaptar conteúdos, exemplos, tempo e estratégias conforme a realidade da turma e da instituição.  
 ---
 
-## 5) Personalização para 2 perfis de alunos (obrigatória)
+## 5) Personalização para 2 perfis de alunos
 Descrever como o plano contempla **pelo menos dois perfis**:
-- **Perfil A:** [características] → *adaptações em conteúdo/atividade/avaliação*  
-- **Perfil B:** [características] → *adaptações em conteúdo/atividade/avaliação*
-
+- **Perfil A:** [para TDAH] → prevê tarefas divididas em etapas curtas, com tempo visível. 
+- **Perfil B:** [para TEA] → prevê instruções claras, previsibilidade da atividade e apoio visual.
 > Exemplos de perfis: dificuldades de leitura; alto interesse no tema; preferência visual; preferência auditiva; necessidades de ritmo diferenciado; acesso limitado a tecnologia etc.
 
 ---
 
 ## 6) Internacionalização de um trecho (obrigatória)
 Incluir um **pequeno trecho** do material com **revisão inteligente e tradução rápida**:
-- **Trecho original:** [colar ou linkar]
-- **Trecho traduzido:** [colar ou linkar]
-- **Observações de inclusão linguística:** [como o trecho pode apoiar estudantes multilíngues]
+- **Trecho original:** [Resumo - Empreendedorismo e Inovação Tecnológica.docx](  )
+- **Trecho traduzido:** [Resumen - Emprendimiento e Innovación Tecnológica.docx](  )
+- **Observações de inclusão linguística:** Material de apoio para a compreensão de alunos com habilidades multilíngues.
 
 ---
 
@@ -99,16 +96,16 @@ Incluir um **pequeno trecho** do material com **revisão inteligente e traduçã
 
 ---
 
-## 9) Reflexão (resumida aqui ou em arquivo dedicado)
-- **Ferramentas de IA utilizadas** e **por que** foram escolhidas.  
-- **Desafios** (especialmente ética/privacidade) e **soluções adotadas**.  
-- **Otimização do tempo:** o que acelerou? o que exigiu mais curadoria humana?  
-- **Personalização:** efeitos das adaptações nos diferentes perfis.  
-- **Lições aprendidas** e próximos passos.
+## 9) Reflexão
+- **Ferramentas de IA utilizadas** e **por que** foram escolhidas: utilizaram-se as ferramentas de IA ChatGPT para criação do plano de aula e Copilot conectado a aplicativos Word e Power Point, sendo todos escolhidos pela facilidade de aceso e uso automatizado.     
+- **Desafios** (especialmente ética/privacidade) e **soluções adotadas**: evitou-se  exposição de dados sensíveis dos alunos que não foram identificados em nenhum momento, somente peros perfis de aprendizagem foram incluídos nos prompts.  
+- **Otimização do tempo:** todos os documentos didáticos e pedagógicos foram gerados em tempo muito menor se houvesse uma elaboração manual, passando por revisão e curadoria do professor.
+- **Personalização:** permite aplicação prática com maior segurança das adpatações necessárias para cada perfil de aluno.
+- **Lições aprendidas:** o uso de ferramentas de IA agiliza a produção dos materiais, acrescenta ideias inovadoras e oferece opções variadas para escolha do professor.
 
 ---
 
-## 10) Como entregar no GitHub (passo a passo)
+## 10) Como entregar no GitHub
 1. Acessar o GitHub e clicar em **New repository**.  
 2. Dar um **nome** ao repositório (ex.: `Projeto-Plano-Aula-IA`) e deixar como **público**.  
 3. Fazer **upload** de `Plano_de_Aula_IA.pdf|.docx`, `Apresentacao_Aula_IA.pptx` (ou inclua o **link** no README), `Reflexao_IA.docx|.pdf` e este `README.md`.  
