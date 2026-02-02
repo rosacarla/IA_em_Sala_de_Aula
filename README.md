@@ -41,16 +41,26 @@ A entrega inclui **plano**, **apresentação** e **reflexão crítica**, com **t
 
 ---
 
-## 4) Resumo do plano de aula (preencha)
-- **Tema/Disciplina:** [ex.: Frações — 6º ano]
-- **Objetivos de aprendizagem:** [bullets]
-- **Conteúdo programático:** [bullets]
-- **Metodologia e recursos (incluindo IA):** [bullets]
-- **Avaliação e critérios:** [bullets]
-- **Diferenciação/Adaptações:** [estratégias para atender perfis distintos]
+## 4) Resumo do plano de aula
+- **Tema/Disciplina:** Inovação Tecnológica no Empreendedorismo
+- **Objetivos de aprendizagem:** Compreender o conceito de inovação tecnológica e sua importância no empreendedorismo contemporâneo; Identificar exemplos de inovação tecnológica aplicados a produtos, serviços e processos digitais; Analisar como a tecnologia pode gerar valor, resolver problemas e criar oportunidades de negócio; Desenvolver pensamento crítico, criativo e colaborativo na proposição de soluções inovadoras.
+- **Conteúdo programático:** Conceito de empreendedorismo e inovação tecnológica; Tipos de inovação: produto, serviço, processo e modelo de negócio; Tecnologia como diferencial competitivo (software, aplicativos, plataformas digitais, automação); Exemplos de startups e soluções tecnológicas inovadoras; Relação entre desenvolvimento de sistemas e criação de soluções empreendedoras.
+- **Metodologia e recursos (incluindo IA):** ### Metodologia (50 min)  
+-> **Grupos:** 4–5 estudantes.  
+-> **Abertura (0–5 min):** contextualização com exemplos de apps e negócios digitais.  
+-> **Sondagem (5–10 min):** discussão sobre inovação tecnológica; palavras-chave na lousa.  
+-> **Explanação (10–20 min):** conceitos de empreendedorismo e inovação; exemplos práticos.  
+-> **Atividade prática (20–40 min):** grupos resolvem situação-problema e propõem solução tecnológica.  
+-> **Socialização (40–47 min):** apresentação rápida das propostas.  
+-> **Fechamento (47–50 min):** retomada dos conceitos e reflexão final.
 
-> **Transparência de IA:** usar comentários/revisões no Word ou marcações no PDF para sinalizar os trechos **assistidos/gerados por IA** e a **revisão humana** aplicada.
-
+  -> **Recursos:** Lousa, marcadores, papel, canetas, cartolina; Projeto ou TV smart (se disponível); Computador ou celular (opcional); Ferramentas digitais e IA generativa (uso orientado).
+- **Avaliação e critérios:** Diagnóstica: Participação na sondagem inicial e nas discussões coletivas; Formativa: Observação da participação dos alunos durante a atividade em grupo, colaboração, criatividade e coerência das propostas; Evidência de aprendizagem: Apresentação oral da solução inovadora, demonstrando compreensão do conceito de inovação tecnológica aplicada ao empreendedorismo.
+<p img
+  
+  https://i.postimg.cc/DZTLnY4j/criterios-plano.png
+- **Diferenciação/Adaptações:** Apoio: roteiros guiados com perguntas orientadoras e exemplos; Enriquecimento: incentivo à criação de modelos mais detalhados da solução (funcionalidades, público-alvo); TDAH: tarefas divididas em etapas curtas, com tempo visível; TEA: instruções claras, previsibilidade da atividade e apoio visual; Sem internet: todas as atividades podem ser realizadas em papel.
+> **Transparência de IA:** Este plano foi elaborado com apoio de inteligência artificial para organização didática e sugestão de atividades. O professor mantém total autonomia para adaptar conteúdos, exemplos, tempo e estratégias conforme a realidade da turma e da instituição.  
 ---
 
 ## 5) Personalização para 2 perfis de alunos (obrigatória)
