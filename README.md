@@ -17,7 +17,7 @@ A entrega inclui **plano**, **apresentação** e **reflexão crítica**, com **t
 ---
 
 ## 2) Entregáveis
-- **Plano de Aula Detalhado** — [`Plano de Aula_Inovacao Tecnologica no Empreendedorismo.pdf`](https://github.com/rosacarla/IA_em_Sala_de_Aula/blob/main/Plano%20de%20Aula_Inovacao%20Tecnologica%20no%20Empreendedorismo.docx)   
+- **Plano de Aula Detalhado** — [`Plano de Aula_Inovacao Tecnologica no Empreendedorismo.pdf`](https://github.com/rosacarla/IA_em_Sala_de_Aula/blob/main/Plano%20de%20Aula_Inovacao%20Tecnologica%20no%20Empreendedorismo.pdf)   
   Deve conter: objetivos, conteúdo, metodologia, avaliação e diferenciação.  
 - **Apresentação** — [`Empreendedorismo_Inovacao_Apresentacao.pptx`](https://github.com/rosacarla/IA_em_Sala_de_Aula/blob/main/Empreendedorismo_Inovacao_Apresentacao.pptx)  
 - **Reflexão** — `seção no README`  
