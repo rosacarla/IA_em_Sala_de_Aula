@@ -1,7 +1,7 @@
 # Plano de Aula Interativo e Personalizado com Ecossistema IA
 
 **Descrição do desafio**  
-Desafio prático em **IA aplicada à educação** para avaliar as competências adquiridas e preparar a aplicação no mundo real. Você irá criar um plano de aula **interativo e personalizado** usando um **ecossistema de IA** (ex.: ChatGPT e Microsoft Copilot), com atenção a **ética, autoria e proteção de dados (LGPD)**, além de **adaptação para pelo menos dois perfis de alunos** e **internacionalização** de um pequeno trecho do material.  
+Desafio prático em **IA aplicada à educação** para avaliar as competências adquiridas e preparar a aplicação no mundo real. A proposta solicita a criaçõ de um plano de aula **interativo e personalizado** usando um **ecossistema de IA** (ex.: ChatGPT e Microsoft Copilot), com atenção a **ética, autoria e proteção de dados (LGPD)**, a **adaptação para pelo menos dois perfis de alunos** e **internacionalização** de um pequeno trecho do material.  
 A entrega inclui **plano**, **apresentação** e **reflexão crítica**, com **transparência** sobre o que foi assistido/gerado por IA e qual foi a revisão humana.
 
 ---
@@ -19,11 +19,11 @@ A entrega inclui **plano**, **apresentação** e **reflexão crítica**, com **t
 ## 2) Entregáveis (obrigatórios)
 - **Plano de Aula Detalhado** — `Plano_de_Aula_IA.pdf` **ou** `.docx`  
   Deve conter: objetivos, conteúdo, metodologia, avaliação e diferenciação.  
-  > Indique claramente o que foi **criado/assistido por IA** (ex.: comentários no Word, marcações no PDF).
+  > Indicar claramente o que foi **criado/assistido por IA** (ex.: comentários no Word, marcações no PDF).
 - **Apresentação** — `Apresentacao_Aula_IA.pptx` **ou** link do PowerPoint online  
-  > Se hospedado em OneDrive/Google Drive, inclua o **link** no README.
+  > Se hospedado em OneDrive/Google Drive, incluir o **link** no README.
 - **Reflexão** — `Reflexao_IA.docx` **ou** `.pdf` **ou** seção no README  
-  > Explique ferramentas usadas, desafios (ética/privacidade), soluções, **ganhos de tempo** e **lições aprendidas**.
+  > Explicar ferramentas usadas, desafios (ética/privacidade), soluções, **ganhos de tempo** e **lições aprendidas**.
 - **README.md** (este arquivo) — título, descrição do desafio, **resumo do plano**, ferramentas de IA, links externos, **reflexão final** e **créditos**.
 
 ---
@@ -49,12 +49,12 @@ A entrega inclui **plano**, **apresentação** e **reflexão crítica**, com **t
 - **Avaliação e critérios:** [bullets]
 - **Diferenciação/Adaptações:** [estratégias para atender perfis distintos]
 
-> **Transparência de IA:** use comentários/revisões no Word ou marcações no PDF para sinalizar os trechos **assistidos/gerados por IA** e a **revisão humana** aplicada.
+> **Transparência de IA:** usar comentários/revisões no Word ou marcações no PDF para sinalizar os trechos **assistidos/gerados por IA** e a **revisão humana** aplicada.
 
 ---
 
 ## 5) Personalização para 2 perfis de alunos (obrigatória)
-Descreva como o plano contempla **pelo menos dois perfis**:
+Descrever como o plano contempla **pelo menos dois perfis**:
 - **Perfil A:** [características] → *adaptações em conteúdo/atividade/avaliação*  
 - **Perfil B:** [características] → *adaptações em conteúdo/atividade/avaliação*
 
@@ -63,7 +63,7 @@ Descreva como o plano contempla **pelo menos dois perfis**:
 ---
 
 ## 6) Internacionalização de um trecho (obrigatória)
-Inclua um **pequeno trecho** do material com **revisão inteligente e tradução rápida**:
+Incluir um **pequeno trecho** do material com **revisão inteligente e tradução rápida**:
 - **Trecho original:** [colar ou linkar]
 - **Trecho traduzido:** [colar ou linkar]
 - **Observações de inclusão linguística:** [como o trecho pode apoiar estudantes multilíngues]
@@ -76,15 +76,15 @@ Inclua um **pequeno trecho** do material com **revisão inteligente e tradução
 3. **Copilot no PowerPoint** → criar slides que **sintetizem** conteúdo e **engajem** a turma.  
 4. **Revisão humana** → checagem de precisão, alinhamento curricular, direitos autorais e adequação do nível de leitura.
 
-> Dica: mantenha **prompts reutilizáveis** em um `.docx`/`.txt` (ex.: “Estrutura de objetivos”, “Adaptar para perfil visual”, “Reescrever em linguagem simples”, “Gerar slides-resumo por seção”).
+> Dica: manter **prompts reutilizáveis** em um `.docx`/`.txt` (ex.: “Estrutura de objetivos”, “Adaptar para perfil visual”, “Reescrever em linguagem simples”, “Gerar slides-resumo por seção”).
 
 ---
 
 ## 8) Ética, proteção de dados e autoria
-- **Privacidade/LGPD:** não compartilhe dados pessoais; **anonimize** exemplos (nomes, imagens, localização).  
-- **Autoria e fontes:** cite referências; evite plágio; verifique originalidade quando necessário.  
-- **Transparência:** documente **o que a IA produziu** e **o que você revisou/ajustou**.  
-- **Limites e vieses:** faça leitura crítica das saídas da IA e ajuste para o contexto pedagógico real.
+- **Privacidade/LGPD:** não compartilhar dados pessoais; **anonimizar** exemplos (nomes, imagens, localização).  
+- **Autoria e fontes:** citar referências; evite plágio; verificar originalidade quando necessário.  
+- **Transparência:** documentar **o que a IA produziu** e **o que foi revisado/ajustado**.  
+- **Limites e vieses:** fazer leitura crítica das saídas da IA e ajustar para o contexto pedagógico real.
 
 ---
 
@@ -98,8 +98,8 @@ Inclua um **pequeno trecho** do material com **revisão inteligente e tradução
 ---
 
 ## 10) Como entregar no GitHub (passo a passo)
-1. Acesse o GitHub e clique em **New repository**.  
-2. Dê um **nome** ao repositório (ex.: `Projeto-Plano-Aula-IA`) e deixe como **público**.  
-3. Faça **upload** de `Plano_de_Aula_IA.pdf|.docx`, `Apresentacao_Aula_IA.pptx` (ou inclua o **link** no README), `Reflexao_IA.docx|.pdf` e este `README.md`.  
-4. **Confira os nomes dos arquivos** exatamente como acima.  
-5. Clique em **Commit changes** e compartilhe o **link do repositório**.
+1. Acessar o GitHub e clicar em **New repository**.  
+2. Dar um **nome** ao repositório (ex.: `Projeto-Plano-Aula-IA`) e deixar como **público**.  
+3. Fazer **upload** de `Plano_de_Aula_IA.pdf|.docx`, `Apresentacao_Aula_IA.pptx` (ou inclua o **link** no README), `Reflexao_IA.docx|.pdf` e este `README.md`.  
+4. **Conferir os nomes dos arquivos** exatamente como acima.  
+5. Clicar em **Commit changes** e compartilhar o **link do repositório**.
