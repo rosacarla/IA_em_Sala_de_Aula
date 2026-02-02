@@ -6,7 +6,7 @@ A entrega inclui **plano**, **apresentação** e **reflexão crítica**, com **t
 
 ---
 
-## 1) Objetivos de aprendizagem
+## 1) Objetivos de aprendizagem do projeto
 - Aplicar fundamentos de IA para **escolher ferramentas** adequadas em cada etapa (planejamento, materiais, apresentação, adaptação, tradução).
 - **Gerar o esqueleto do plano de aula** com IA e transformá-lo em um documento didático completo.
 - Produzir **materiais e slides** com suporte de IA, mantendo autoria e clareza pedagógica.
@@ -68,7 +68,7 @@ Descrever como o plano contempla **pelo menos dois perfis**:
 
 ---
 
-## 6) Internacionalização de um trecho (obrigatória)
+## 6) Internacionalização de um trecho do material da aula
 Incluir um **pequeno trecho** do material com **revisão inteligente e tradução rápida**:
 - **Trecho original:** [Resumo - Empreendedorismo e Inovação Tecnológica.docx](https://github.com/rosacarla/IA_em_Sala_de_Aula/blob/main/Resumo%20-%20Empreendedorismo%20e%20Inova%C3%A7%C3%A3o%20Tecnol%C3%B3gica.docx)
 - **Trecho traduzido:** [Resumen - Emprendimiento e Innovación Tecnológica.docx](https://github.com/rosacarla/IA_em_Sala_de_Aula/blob/main/Resumen%20-%20Emprendimiento%20e%20Innovaci%C3%B3n%20Tecnol%C3%B3gica.docx)
@@ -106,6 +106,6 @@ Incluir um **pequeno trecho** do material com **revisão inteligente e traduçã
 ## 10) Como entregar no GitHub
 1. Acessar o GitHub e clicar em **New repository**.  
 2. Dar um **nome** ao repositório (ex.: `Projeto-Plano-Aula-IA`) e deixar como **público**.  
-3. Fazer **upload** de `Plano_de_Aula_IA.pdf|.docx`, `Apresentacao_Aula_IA.pptx` (ou inclua o **link** no README), `Reflexao_IA.docx|.pdf` e este `README.md`.  
+3. Fazer **upload** do Plano de Aula, Apresentação de slides da aula, Reflexao (seção do README) e este `README.md`.  
 4. **Conferir os nomes dos arquivos** exatamente como acima.  
-5. Clicar em **Commit changes** e compartilhar o **link do repositório**.
+5. Clicar em **Commit changes** e compartilhar o **link do repositório** na platforma Dio.me.
